@@ -18,4 +18,3 @@
      You can access my portfolio website by visiting[The live site] : "https://madh-u-priya.github.io/Portfolio-simple-website/"
 
 
-
